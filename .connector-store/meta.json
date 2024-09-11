@@ -4,7 +4,7 @@
     "category": "Other",
     "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/Shippo+Connector",
     "description": "The Shippo connector allows you to access the Shippo REST API through the WSO2 ESB. Shippo handles shipping by printing shipping labels, getting rates, tracking packages, printing customs forms, submitting refunds, etc.",
-    "status": "Active",
+    "status": "Inactive",
     "labels": [
         "connector"
     ],
